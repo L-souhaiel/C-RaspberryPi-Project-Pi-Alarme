@@ -17,6 +17,8 @@
 # define BUZZER 2
 
 
+//this a PI_alarme based on Raspberry PI 3 b+ , 4 . it contain code to manipulate EOM LCD Screen and PIR sensor and Buzzer.
+
 /* Symbolische Namen fuer die Datenrichtung und die Daten  */
 #define IN  0
 #define OUT 1
