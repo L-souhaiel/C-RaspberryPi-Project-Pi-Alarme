@@ -1,6 +1,6 @@
-# Escalator Controler using PIR , Buzzer , SPI LCD Screen
+# Escalator Controller using PIR , Buzzer , SPI LCD Screen
 
-A C module to control how much personare on an Escalator from accessing a PIR Sensor , Buzzer and a screen to print the number of person are on the Escalator . 
+A C module to controll how much personare on an Escalator from accessing a PIR Sensor , Buzzer and a screen to print the number of person are on the Escalator . 
 
 ![Layout](https://github.com/TitiLouati/C-RaspberryPi-Project-Pi-Alarme/blob/main/Pi-Alarme-Raspi-project/LCDRaspi.png)
 
